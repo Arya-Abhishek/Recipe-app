@@ -1,0 +1,20 @@
+.recipe {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgb(97, 95, 95);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: white;
+  align-items: center;
+  min-width: 40%;
+  padding-bottom: 30px;
+}
+
+.image {
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
